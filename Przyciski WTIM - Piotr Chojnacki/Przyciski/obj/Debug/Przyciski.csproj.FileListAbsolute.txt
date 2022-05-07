@@ -1,0 +1,15 @@
+C:\Users\dagma\OneDrive\Desktop\Przyciski WTIM - Piotr Chojnacki\Przyciski\bin\Debug\Przyciski.exe.config
+C:\Users\dagma\OneDrive\Desktop\Przyciski WTIM - Piotr Chojnacki\Przyciski\bin\Debug\Przyciski.exe
+C:\Users\dagma\OneDrive\Desktop\Przyciski WTIM - Piotr Chojnacki\Przyciski\bin\Debug\Przyciski.pdb
+C:\Users\dagma\OneDrive\Desktop\Przyciski WTIM - Piotr Chojnacki\Przyciski\obj\Debug\Przyciski.csprojAssemblyReference.cache
+C:\Users\dagma\OneDrive\Desktop\Przyciski WTIM - Piotr Chojnacki\Przyciski\obj\Debug\MainWindow.g.cs
+C:\Users\dagma\OneDrive\Desktop\Przyciski WTIM - Piotr Chojnacki\Przyciski\obj\Debug\App.g.cs
+C:\Users\dagma\OneDrive\Desktop\Przyciski WTIM - Piotr Chojnacki\Przyciski\obj\Debug\Przyciski_MarkupCompile.cache
+C:\Users\dagma\OneDrive\Desktop\Przyciski WTIM - Piotr Chojnacki\Przyciski\obj\Debug\Przyciski_MarkupCompile.lref
+C:\Users\dagma\OneDrive\Desktop\Przyciski WTIM - Piotr Chojnacki\Przyciski\obj\Debug\MainWindow.baml
+C:\Users\dagma\OneDrive\Desktop\Przyciski WTIM - Piotr Chojnacki\Przyciski\obj\Debug\Przyciski.g.resources
+C:\Users\dagma\OneDrive\Desktop\Przyciski WTIM - Piotr Chojnacki\Przyciski\obj\Debug\Przyciski.Properties.Resources.resources
+C:\Users\dagma\OneDrive\Desktop\Przyciski WTIM - Piotr Chojnacki\Przyciski\obj\Debug\Przyciski.csproj.GenerateResource.cache
+C:\Users\dagma\OneDrive\Desktop\Przyciski WTIM - Piotr Chojnacki\Przyciski\obj\Debug\Przyciski.csproj.CoreCompileInputs.cache
+C:\Users\dagma\OneDrive\Desktop\Przyciski WTIM - Piotr Chojnacki\Przyciski\obj\Debug\Przyciski.exe
+C:\Users\dagma\OneDrive\Desktop\Przyciski WTIM - Piotr Chojnacki\Przyciski\obj\Debug\Przyciski.pdb
